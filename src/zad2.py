@@ -9,9 +9,6 @@
 # Выходные данные:
 # выше нуля: 3, ниже нуля: 2, равна нулю: 2
 
-
-
-
 def process(input_string: str) -> str:
 
     list_numbers = input_string.split(' ') # Преобразуем список
