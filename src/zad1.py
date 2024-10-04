@@ -1,5 +1,8 @@
 
 
+#
+#
+
 def check_candidates(names_input: str, scores_input: str )-> str:
 
 
@@ -30,7 +33,11 @@ def check_candidates(names_input: str, scores_input: str )-> str:
     return ", ".join(check_candidates) # Преобразовываем список в строку
 
 
-names_input = input()
-scores_input = input()
+# names_input = input()
+# scores_input = input()
+names_input = "Marina','Katy','Galya','Angela'"
+scores_input = '0,0,55,55|64,55,29,99|55,64,55,29|55,64,55,29'
+
+
 result = check_candidates(names_input ,scores_input)
 print(result)
