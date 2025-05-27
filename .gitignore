@@ -1,1 +1,8 @@
 .venv
+.idea/codeStyles/codeStyleConfig.xml
+
+.idea/codeStyles/Project.xml
+
+.idea/dbnavigator.xml
+
+.idea/misc.xml
