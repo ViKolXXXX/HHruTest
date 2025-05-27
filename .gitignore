@@ -6,3 +6,7 @@
 .idea/dbnavigator.xml
 
 .idea/misc.xml
+
+*.xml
+
+.idea/
