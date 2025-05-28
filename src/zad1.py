@@ -5,7 +5,6 @@
 
 def check_candidates(names_input: str, scores_input: str )-> str:
 
-
     list_names_input = names_input.split(",") # Строку преобразовываем в список
     list_scores_input = scores_input.split("|") # Строку преобразовываем в список
 
